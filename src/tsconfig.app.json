@@ -4,8 +4,9 @@
 		"declaration": false,
 		"moduleResolution": "node",
 		"emitDecoratorMetadata": true,
-		"experimentalDecorators": true,
-		"lib": [
+		"experimentalDecorators": true,	
+		"resolveJsonModule": true,
+				"lib": [
 			"es2016",
 			"dom",
 			"esnext.asynciterable"
